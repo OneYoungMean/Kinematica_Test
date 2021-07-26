@@ -1,0 +1,523 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.13f1c1 (93b9df9a3ddc) revision 9681375'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1110; Version 2004; 64bit' Language: 'zh' Physical Memory: 65477 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/UnityProject/github/Automatic-DynamicBone/Anim test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56396
+Successfully changed project path to: E:/UnityProject/github/Automatic-DynamicBone/Anim test
+E:/UnityProject/github/Automatic-DynamicBone/Anim test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1c1 (93b9df9a3ddc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProject/github/Automatic-DynamicBone/Anim test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004231 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.919 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2064 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2499.
+Total: 2.102900 ms (FindLiveObjects: 0.201200 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.799000 ms  DeleteObjects: 0.055000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/createAsset.gif
+  artifactKey: Guid(fd512e4c6495b5f4b8526a13bd13b243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/createAsset.gif using Guid(fd512e4c6495b5f4b8526a13bd13b243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cbad02e44a9fbd99689369cdf5f130') in 0.059971 seconds 
+  Import took 0.062992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/createMetric.gif
+  artifactKey: Guid(8e6e5eea705fb0e4eb1c1d28015a3356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/createMetric.gif using Guid(8e6e5eea705fb0e4eb1c1d28015a3356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2f6844699f917596bd18ed07727ac6') in 0.010777 seconds 
+  Import took 0.013595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.asset
+  artifactKey: Guid(ba3871522913c8744a6ab0c114cf005d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.asset using Guid(ba3871522913c8744a6ab0c114cf005d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) DisplayProgressbar: Loading clip Idle
+DisplayProgressbar: Loading clip Start_Stop_1
+ -> (artifact id: '38dfc75defef47e88083a4211c21c36a') in 0.315287 seconds 
+  Import took 0.319872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/buildAsset.png
+  artifactKey: Guid(565c601f1a891b24ba961a4879325eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/buildAsset.png using Guid(565c601f1a891b24ba961a4879325eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874804a4ae03367acc41ab8cb767268d') in 0.008605 seconds 
+  Import took 0.011112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/addMarker.gif
+  artifactKey: Guid(1ecf5a8530944074e979c319ff171639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/addMarker.gif using Guid(1ecf5a8530944074e979c319ff171639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3695f2c28ccec777c75e9a61192b0a09') in 0.006452 seconds 
+  Import took 0.008995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/boundaryClipsView.png
+  artifactKey: Guid(7672e6ac9967f9c4bb51532467d2a3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/boundaryClipsView.png using Guid(7672e6ac9967f9c4bb51532467d2a3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4268b03cdd7477139d89f0b1edb78db1') in 0.006793 seconds 
+  Import took 0.010239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/showHideTrack.gif
+  artifactKey: Guid(d0d98ad01823ad7498edb92ac07f3926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/showHideTrack.gif using Guid(d0d98ad01823ad7498edb92ac07f3926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6555494336cf01aa9b6c3275cd2eb8b6') in 0.008214 seconds 
+  Import took 0.010861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/createAsset.png
+  artifactKey: Guid(cad0fd10828cd294aab08cc423e45c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/createAsset.png using Guid(cad0fd10828cd294aab08cc423e45c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881089125bedd9e717334173425e8d2c') in 0.006382 seconds 
+  Import took 0.009270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/clickBuild.gif
+  artifactKey: Guid(238773ea1b18a0447b3b7079546d3385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/clickBuild.gif using Guid(238773ea1b18a0447b3b7079546d3385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c9a3f5662c4c135002d37aacff16f0') in 0.007684 seconds 
+  Import took 0.010280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(44386aae660fbbb44a131ea28fe30952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(44386aae660fbbb44a131ea28fe30952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94632ecd8d6ef1736667e1c14881a43') in 0.001883 seconds 
+  Import took 0.004178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/idleBoundary.png
+  artifactKey: Guid(b727a30153dac684ca6b7b0325aaef16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/idleBoundary.png using Guid(b727a30153dac684ca6b7b0325aaef16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143fc8d9abd95608e0daf0518f8a1193') in 0.006199 seconds 
+  Import took 0.008758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/runTagCreation.gif
+  artifactKey: Guid(f0c050d0b702fbe458edcf7f191c9808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/runTagCreation.gif using Guid(f0c050d0b702fbe458edcf7f191c9808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a04bd229f1d2913a6534a33ef087cf') in 0.011366 seconds 
+  Import took 0.014314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/addIdleClip.gif
+  artifactKey: Guid(52f7e532ccf66374e9a8fe2dab442f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/addIdleClip.gif using Guid(52f7e532ccf66374e9a8fe2dab442f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7488ce0ee2c6c41725e88104dfbbbb1d') in 0.005850 seconds 
+  Import took 0.008477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/helloWorldAsset.png
+  artifactKey: Guid(09b0eff1b916a6c4584fca392cd2e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/helloWorldAsset.png using Guid(09b0eff1b916a6c4584fca392cd2e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52d604061a42af3dc4c6b5a4dee6b40') in 0.008351 seconds 
+  Import took 0.010882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/importSample.png
+  artifactKey: Guid(89480fd46fede7c48b6da3643bbf6f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/importSample.png using Guid(89480fd46fede7c48b6da3643bbf6f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97accbe73f852224d4a312c9c0d35574') in 0.007292 seconds 
+  Import took 0.009893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/openAssetBuilder.png
+  artifactKey: Guid(b543a837dfaae304d8b230bc6635ddb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/openAssetBuilder.png using Guid(b543a837dfaae304d8b230bc6635ddb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac2beabd88ef48d0a1cd80202431f08') in 0.006008 seconds 
+  Import took 0.008549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World
+  artifactKey: Guid(91dbddd0fd232e04288f81b704569eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World using Guid(91dbddd0fd232e04288f81b704569eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0366f2b5b2d36a8dac82e6ccd20f1fa') in 0.001887 seconds 
+  Import took 0.004332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/createTag.gif
+  artifactKey: Guid(2ee89928191cf474c893ed659ececae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/createTag.gif using Guid(2ee89928191cf474c893ed659ececae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96e40f47a094e13c8cd94bcd943300d') in 0.006797 seconds 
+  Import took 0.009327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/showTracks.png
+  artifactKey: Guid(a40f243f8a060654eae9330dc9a0c542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/showTracks.png using Guid(a40f243f8a060654eae9330dc9a0c542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc39cb7c105f28b908bdc28f0db20acd') in 0.006092 seconds 
+  Import took 0.008723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview
+  artifactKey: Guid(07fad84aa18af70439d87a89944a91f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview using Guid(07fad84aa18af70439d87a89944a91f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709fe15d156a771c25dc5bafd96a9864') in 0.002068 seconds 
+  Import took 0.004359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/newMarker.png
+  artifactKey: Guid(f17501ad6e7d7b441b6a28009355d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/newMarker.png using Guid(f17501ad6e7d7b441b6a28009355d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133bdc775a5e12fc52de930fb425f67f') in 0.005735 seconds 
+  Import took 0.008141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Samples/Kinematica
+  artifactKey: Guid(1f549e560205bfb4c81ed5cd73b09713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica using Guid(1f549e560205bfb4c81ed5cd73b09713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c51b828e0ccb7b66aa0b65e57504ea') in 0.001887 seconds 
+  Import took 0.004454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/openKinematicaWindow.png
+  artifactKey: Guid(52a599df022bb9e44b67ec7a0b2d0eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/openKinematicaWindow.png using Guid(52a599df022bb9e44b67ec7a0b2d0eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54dc3df3305a82849553bfc76f75bf0') in 0.006098 seconds 
+  Import took 0.008585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.004771 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.unity
+  artifactKey: Guid(03412175b4f41784491016fc21a1d316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.unity using Guid(03412175b4f41784491016fc21a1d316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cd9a56b6b39b26f8c7747a7a71d564') in 0.003282 seconds 
+  Import took 0.006345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.unity
+  artifactKey: Guid(03412175b4f41784491016fc21a1d316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/HelloWorld.unity using Guid(03412175b4f41784491016fc21a1d316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cd9a56b6b39b26f8c7747a7a71d564') in 0.002313 seconds 
+  Import took 0.004572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.308464 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations
+  artifactKey: Guid(e24a5874928b8464da1efca1ec6d4051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations using Guid(e24a5874928b8464da1efca1ec6d4051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5545c4fa5c2f8c75b03f3bed1b18653') in 0.002408 seconds 
+  Import took 0.005683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations
+  artifactKey: Guid(e24a5874928b8464da1efca1ec6d4051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations using Guid(e24a5874928b8464da1efca1ec6d4051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5545c4fa5c2f8c75b03f3bed1b18653') in 0.001834 seconds 
+  Import took 0.004245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.879494 seconds.
+  path: Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations/Editor
+  artifactKey: Guid(f1f945cb6531b1b4ebf74a88f215e821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Kinematica/0.8.0-preview/Hello World/Annotations/Editor using Guid(f1f945cb6531b1b4ebf74a88f215e821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86890c957597bcfd7ec1a014d8a74d40') in 0.002457 seconds 
+  Import took 0.005188 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2056 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2510.
+Total: 2.193400 ms (FindLiveObjects: 0.235900 ms CreateObjectMapping: 0.050000 ms MarkObjects: 1.888100 ms  DeleteObjects: 0.017700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004091 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2056 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2515.
+Total: 2.298300 ms (FindLiveObjects: 0.207300 ms CreateObjectMapping: 0.046100 ms MarkObjects: 2.025200 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2062 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2526.
+Total: 2.408500 ms (FindLiveObjects: 0.204100 ms CreateObjectMapping: 0.045400 ms MarkObjects: 2.137800 ms  DeleteObjects: 0.020200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2067 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2536.
+Total: 2.395400 ms (FindLiveObjects: 0.231200 ms CreateObjectMapping: 0.051200 ms MarkObjects: 2.089000 ms  DeleteObjects: 0.022600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.238 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2072 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2546.
+Total: 2.416000 ms (FindLiveObjects: 0.203100 ms CreateObjectMapping: 0.042700 ms MarkObjects: 2.148700 ms  DeleteObjects: 0.020500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003814 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.271 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2557.
+Total: 2.359300 ms (FindLiveObjects: 0.208700 ms CreateObjectMapping: 0.047400 ms MarkObjects: 2.079600 ms  DeleteObjects: 0.022500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2563.
+Total: 2.335500 ms (FindLiveObjects: 0.193900 ms CreateObjectMapping: 0.046100 ms MarkObjects: 2.072400 ms  DeleteObjects: 0.021900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
